@@ -4,8 +4,8 @@
 ========================================================================================
 1.安装git工具下载最新的miniblink
 https://github.com/weolar/miniblink49.git
-2.要安装visualstudio2015，解压build-pps-ok-20180711.zip，覆盖miniblink49的对应build目录
-3.解压ppsminiblink-sdk-20180711.zip，可以直接在工程中调用
+2.要安装visualstudio2015，解压build-pps-ok-20180712.zip，覆盖miniblink49的对应build目录
+3.解压ppsminiblink-sdk-20180712.zip，可以直接在工程中调用
 4.解压wkexe-src-pps-ok.rar，更改过的wkexe例子代码
 
 ========================================================================================
